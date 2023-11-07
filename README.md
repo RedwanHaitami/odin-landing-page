@@ -1,6 +1,8 @@
+
 # Odin Landing Page
 
 Odin Landing Webpage project created for The Odin Project foundations course.
+<br>
 
 ## Preview
 
@@ -9,7 +11,7 @@ Odin Landing Webpage project created for The Odin Project foundations course.
 
 ## Live Demo 
 
-Check it out on [GitHub Webpages]()</br>
+Check it out on [GitHub Webpages](https://redwanhaitami.github.io/odin-landing-page/)</br>
 <br>
 
 ## Structure 
@@ -43,7 +45,7 @@ The landing page consists of the following sections:
 
 - **Footer:** this section includes: 
   
-  - `p` element as a copyright information
+  - Paragraph as a copyright information
 <br>
 
 ## Skills and tools
