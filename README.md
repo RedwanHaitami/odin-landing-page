@@ -1,7 +1,7 @@
 
 # Odin Landing Page
 
-Odin Landing Webpage project created for The Odin Project foundations course.
+Odin Landing Webpage project created for The Odin Project foundations course.<br>
 <br>
 
 ## Preview
